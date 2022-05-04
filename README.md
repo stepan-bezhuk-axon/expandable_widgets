@@ -186,3 +186,4 @@ ExpandableText(textWidget: Text(data, maxLines: 3), helper: Helper.none),
 
 For more info please see [example](https://github.com/fatihozkan-github/ExpandableWidgets/blob/master/example/lib/main.dart).
 # extensions-card
+# extensions-card
