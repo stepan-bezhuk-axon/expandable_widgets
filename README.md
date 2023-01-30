@@ -188,3 +188,4 @@ For more info please see [example](https://github.com/fatihozkan-github/Expandab
 # extensions-card
 # extensions-card
 # expandable_widgets
+# expandable_widgets
